@@ -1,0 +1,5 @@
+streamlit
+openai
+pinecone
+pypdf
+python-dotenv
